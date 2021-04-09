@@ -1,4 +1,4 @@
-# statechain
+# Spacechain
 
 Installation
 ```
